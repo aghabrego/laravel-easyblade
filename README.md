@@ -1,6 +1,3 @@
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/rezaamini-ir/laravel-easyblade/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/rezaamini-ir/laravel-easyblade/?branch=master)
-[![Build Status](https://scrutinizer-ci.com/g/rezaamini-ir/laravel-easyblade/badges/build.png?b=master)](https://scrutinizer-ci.com/g/rezaamini-ir/laravel-easyblade/build-status/master)
-
 # laravel EasyBlade
 
 You can create a simpler and more readable view with EasyBlade
@@ -8,7 +5,7 @@ You can create a simpler and more readable view with EasyBlade
 # Installation
 
 ```
-composer require rezaamini-ir/laravel-easyblade
+composer require weirdo/laravel-easyblade
 ```
 
 # Usage
